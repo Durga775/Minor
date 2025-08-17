@@ -4,5 +4,9 @@ Added the second line.
 
 Added the third line
 
+<<<<<<< Updated upstream
 Added the fifth line
 
+=======
+Added the Fourth line
+>>>>>>> Stashed changes
