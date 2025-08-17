@@ -1,8 +1,0 @@
-Added the line for the fi file.
-
-<<<<<<< Updated upstream
-
-After restoring the data
-=======
-Added the data for the file
->>>>>>> Stashed changes
