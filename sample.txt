@@ -1,3 +1,0 @@
-// Bug 121
-
-Not completing the work for the bug 121 
